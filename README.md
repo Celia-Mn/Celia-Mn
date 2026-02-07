@@ -2,7 +2,7 @@
 
 ## ✨ Développeuse junior ✨
 
-Étudiante en BUT Informatique à l’IUT2 Grenoble, je suis à la recherche d'un **stage** en développement d'une durée de 8 à 12 semaines, du 20 avril au 26 juin 2026 *(prolongeable jusqu'au 10 juillet 2026)*.
+Étudiante en BUT Informatique parcours Réalisation d'Applications : Conception, Développement, Validation, à l’IUT2 Grenoble, je suis à la recherche d'un **stage** en développement d'une durée de 8 à 12 semaines, du 20 avril au 26 juin 2026 *(prolongeable jusqu'au 10 juillet 2026)*.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celia.moulin@free.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-moulin/)
